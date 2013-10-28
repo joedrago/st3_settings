@@ -4,3 +4,6 @@
 [submodule "CoffeeScript-Sublime-Plugin"]
 	path = CoffeeScript-Sublime-Plugin
 	url = https://github.com/Xavura/CoffeeScript-Sublime-Plugin.git
+[submodule "TrailingSpaces"]
+	path = TrailingSpaces
+	url = https://github.com/SublimeText/TrailingSpaces.git
