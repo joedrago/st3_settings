@@ -1,3 +1,6 @@
 [submodule "SublimeAStyleFormatter"]
 	path = SublimeAStyleFormatter
 	url = https://github.com/timonwong/SublimeAStyleFormatter.git
+[submodule "CoffeeScript-Sublime-Plugin"]
+	path = CoffeeScript-Sublime-Plugin
+	url = https://github.com/Xavura/CoffeeScript-Sublime-Plugin.git
