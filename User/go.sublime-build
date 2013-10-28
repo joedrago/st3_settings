@@ -1,0 +1,17 @@
+{
+	"shell_cmd": "go install hello",
+	"file_regex": "^(..[^:\n]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "f:/work/go",
+
+	"env": {
+		"GOROOT": "f:/work/go"
+		},
+
+	"variants":
+	[
+		{
+			"name": "Clean",
+			"shell_cmd": "go clean"
+		}
+	]
+}

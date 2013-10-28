@@ -1,0 +1,3 @@
+[submodule "SublimeAStyleFormatter"]
+	path = SublimeAStyleFormatter
+	url = https://github.com/timonwong/SublimeAStyleFormatter.git
