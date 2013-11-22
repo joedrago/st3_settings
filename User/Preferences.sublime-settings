@@ -3,7 +3,6 @@
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
 	"draw_white_space": "selection",
 	"font_face": "Liberation Mono",
-	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -11,5 +10,6 @@
 	"preview_on_click": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
 }
