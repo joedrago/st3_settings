@@ -1,3 +1,4 @@
 [
-	{ "keys": ["ctrl+="], "command": "reindent", "args": { "single_line": false } }
+	{ "keys": ["ctrl+="], "command": "reindent", "args": { "single_line": false } },
+    { "keys": ["ctrl+f7"], "command": "show_panel", "args": {"panel": "output.exec"} }
 ]
