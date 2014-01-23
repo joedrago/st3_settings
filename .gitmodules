@@ -7,3 +7,12 @@
 [submodule "TrailingSpaces"]
 	path = TrailingSpaces
 	url = https://github.com/SublimeText/TrailingSpaces.git
+[submodule "C Improved"]
+	path = C Improved
+	url = https://github.com/abusalimov/SublimeCImproved.git
+[submodule "SublimeGDB"]
+	path = SublimeGDB
+	url = https://github.com/quarnster/SublimeGDB.git
+[submodule "Vintageous"]
+	path = Vintageous
+	url = https://github.com/guillermooo/Vintageous.git
