@@ -3,5 +3,6 @@
     { "keys": ["ctrl+f7"], "command": "show_panel", "args": {"panel": "output.exec"} },
     { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
     { "keys": ["ctrl+r"], "command": "_vi_redo", "context": [{"key": "vi_mode_normal"}] },
-    { "keys": ["ctrl+w"], "command": "close" }
+    { "keys": ["ctrl+w"], "command": "close" },
+    { "keys": ["ctrl+shift+alt+e"], "command": "explorer" },
 ]

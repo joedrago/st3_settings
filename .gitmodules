@@ -16,3 +16,6 @@
 [submodule "Vintageous"]
 	path = Vintageous
 	url = https://github.com/guillermooo/Vintageous.git
+[submodule "SublimeAllAutocomplete"]
+	path = SublimeAllAutocomplete
+	url = https://github.com/alienhard/SublimeAllAutocomplete
