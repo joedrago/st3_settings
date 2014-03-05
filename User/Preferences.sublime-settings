@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
 	"draw_white_space": "selection",
 	"font_face": "Liberation Mono",
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"

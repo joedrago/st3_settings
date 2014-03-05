@@ -5,4 +5,5 @@
     { "keys": ["ctrl+r"], "command": "_vi_redo", "context": [{"key": "vi_mode_normal"}] },
     { "keys": ["ctrl+w"], "command": "close" },
     { "keys": ["ctrl+shift+alt+e"], "command": "explorer" },
+    { "keys": ["ctrl+0"], "command": "reset_font_size_custom", "args": { "size" : 10 } }
 ]
