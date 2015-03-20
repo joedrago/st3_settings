@@ -5,11 +5,9 @@
 	"font_face": "Liberation Mono",
 	"ignored_packages":
 	[
-		"Vintageous",
-		"Vintage",
 		"C Improved",
-		"SublimeAStyleFormatter",
-		"SublimeGDB"
+		"Vintage",
+		"Vintageous"
 	],
 	"preview_on_click": false,
 	"scroll_past_end": true,
