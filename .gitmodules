@@ -19,3 +19,15 @@
 [submodule "SublimeAllAutocomplete"]
 	path = SublimeAllAutocomplete
 	url = https://github.com/alienhard/SublimeAllAutocomplete
+[submodule "CoffeeScript"]
+	path = CoffeeScript
+	url = git://github.com/jashkenas/coffee-script-tmbundle
+[submodule "sublime-better-coffeescript"]
+	path = sublime-better-coffeescript
+	url = https://github.com/aponxi/sublime-better-coffeescript.git
+[submodule "CTags"]
+	path = CTags
+	url = https://github.com/SublimeText/CTags.git
+[submodule "sublime-filterlines"]
+	path = sublime-filterlines
+	url = https://github.com/joedrago/sublime-filterlines.git
