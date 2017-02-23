@@ -6,5 +6,6 @@
     { "keys": ["ctrl+w"], "command": "close" },
     { "keys": ["ctrl+shift+alt+e"], "command": "explorer" },
     { "keys": ["f10"], "command": "visualstudio" },
-    { "keys": ["ctrl+0"], "command": "reset_font_size_custom", "args": { "size" : 10 } }
+    { "keys": ["ctrl+0"], "command": "reset_font_size_custom", "args": { "size" : 10 } },
+    { "keys": ["shift+alt+s"], "command": "restyle" }
 ]
