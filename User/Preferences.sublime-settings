@@ -7,13 +7,14 @@
 	"ignored_packages":
 	[
 		"C Improved",
-		"Package Control",
 		"Vintage",
 		"Vintageous"
 	],
 	"preview_on_click": false,
 	"scroll_past_end": true,
+	"show_definitions": false,
 	"tab_size": 4,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true,

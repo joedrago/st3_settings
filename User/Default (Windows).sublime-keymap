@@ -4,8 +4,10 @@
     { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
     { "keys": ["ctrl+r"], "command": "_vi_redo", "context": [{"key": "vi_mode_normal"}] },
     { "keys": ["ctrl+w"], "command": "close" },
-    { "keys": ["ctrl+shift+alt+e"], "command": "explorer" },
+    { "keys": ["ctrl+shift+alt+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
     { "keys": ["f10"], "command": "visualstudio" },
     { "keys": ["ctrl+0"], "command": "reset_font_size_custom", "args": { "size" : 10 } },
-    { "keys": ["shift+alt+s"], "command": "restyle" }
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+    { "keys": ["shift+alt+s"], "command": "uncrustify_document" },
+    { "keys": ["ctrl+alt+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
 ]

@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the C++ syntax
+{
+    "auto_complete_triggers": [ {"selector": "source.c++", "characters": ".>:" }]
+}
